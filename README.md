@@ -18,5 +18,5 @@
 
 <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyani18&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
-<img alt="Divyani's github stats" src="https://github-readme-stats.vercel.app/api/?username=Divyani18&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+[//]: # (<img alt="Divyani's github stats" src="https://github-readme-stats.vercel.app/api/?username=Divyani18&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />)
 
